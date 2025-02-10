@@ -1,0 +1,23 @@
+# Arquivos gerados pelo Java e IDEs
+*.class
+*.log
+*.jar
+*.war
+*.iml
+
+# IntelliJ IDEA e Eclipse
+.idea/
+*.project
+*.classpath
+*.settings/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/

@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: producer-service
+  rabbitmq:
+    host: localhost
+    username: guest
+    password: guest

@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: consumer-service
+  rabbitmq:
+    host: localhost
+    username: guest
+    password: guest
+  amqp:
+    deserialization:
+      trust-all: true  # Permite a desserialização de todas as classes
+server:
+  port: 8081
